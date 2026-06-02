@@ -1,8 +1,8 @@
 # [Registration in the Ambivalence/Hesitancy (AH) Video Recognition Challenge 3rd, ABAW11th, ECCV2026](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
 
 - Registration is open now.
-- Challenge details: [https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf)
-- Challenge website: [https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
+- Challenge details: click [here](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf)
+- Challenge website: click [here](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
 - Code in `bah_metrics.py` will be used for evaluation. Teams can use it to evaluate their models on the public BAH test set.
 
 ## BAH dataset:
