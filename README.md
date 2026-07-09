@@ -4,6 +4,8 @@
 - Challenge details: click [here](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf)
 - Challenge website: click [here](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
 - Code in `bah_metrics.py` will be used for evaluation. Teams can use it to evaluate their models on the public BAH test set.
+- Prediction trial example: [predictions-submissions](./predictions-submissions) with and without probabilities.
+- Code to validate your prediction submission before sending it: [./validate_submission.py](./validate_submission.py)
 
 ## BAH dataset:
 ```
@@ -21,7 +23,7 @@
 If you want to participate in the **AH Video Recognition Challenge**, you should follow the below procedure for registration.
 Your registration is an automatic request of the *BAH* dataset cited above needed for training. Once we receive your resigration, we will send you access details for the *BAH* dataset.
 
-The registration consists in filling a form and signing a End-User License Agreement (EULA) to be uploaded in the form.
+The registration consists in filling a form and signing a End-User License Agreement (EULA) to be uploaded in the form. Please read the following instructions first. The link to the registration form is provided at the end of the instructions.
 
 
 
@@ -86,4 +88,4 @@ Search affiliations/institutions/organisations in the provided link [https://sci
 * If you have questions while filling in the form, please contact us.
 
 
-* Form link: [https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY)
+* Registration form link: [https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY)
