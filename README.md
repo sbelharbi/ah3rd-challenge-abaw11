@@ -1,11 +1,28 @@
 # [Registration in the Ambivalence/Hesitancy (AH) Video Recognition Challenge 3rd, ABAW11th, ECCV2026](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
 
-- Registration is open now.
+- Challenge is closed now.
 - Challenge details: click [here](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf)
 - Challenge website: click [here](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1)
 - Code in `bah_metrics.py` will be used for evaluation. Teams can use it to evaluate their models on the public BAH test set.
 - Prediction trial example: [predictions-submissions](./predictions-submissions) with and without probabilities.
 - Code to validate your prediction submission before sending it: [./validate_submission.py](./validate_submission.py)
+
+## Leaderboard:
+We arrived at the end of our Ambivalence/Hesitancy (AH) Video Recognition Challenge in ABAW 11th - ECCV 2026.
+We would like to thank all the teams for their participation. Your contributions are highly valuable.
+Thank you for making progress to our task.
+This second edition of our challenge received 17 teams in total. Among them, 13 teams made a submission.
+
+Leaderboard is now available [here](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Leaderboard_of_AH_3rd_ABAW11th___ECCV_2026.pdf).
+
+Slides are [here](https://sbelharbi.github.io/otherdocs/abaw-11th-ah-3rd/Summary_of_ABAW-11th-AH-3rd-ECCV-2026.pdf).
+
+Thanks to all the teams and congratulations to the winning teams.
+We hope to see you again in the next edition.
+We hope to see new teams as well.
+Stay tuned!
+
+ABAW 11th leaderboards are available [here](https://drive.google.com/file/d/1nLprNq1Sxl8ZT8G462hxKYrQa1Eomy27/view?usp=sharing).
 
 ## BAH dataset:
 ```
