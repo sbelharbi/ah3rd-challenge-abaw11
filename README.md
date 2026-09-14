@@ -24,6 +24,19 @@ Stay tuned!
 
 ABAW 11th leaderboards are available [here](https://drive.google.com/file/d/1nLprNq1Sxl8ZT8G462hxKYrQa1Eomy27/view?usp=sharing).
 
+## ABAW 11th white paper
+ABAW 11th white paper is now available: [https://openreview.net/pdf?id=Tmhm0UQzjt](https://openreview.net/pdf?id=Tmhm0UQzjt)
+ (Part of ECCV 2026 proceedings).
+
+ ```
+ @inproceedings{kollias26abaw11,
+   title={From Complex Behavior to Intelligent Human-Centered AI: The 11th ABAW Workshop \& Competition},
+   author={D. Kollias and S. Zafeiriou and I. Kotsia and E. Granger and M. Pedersoli and A. L. Koerich and S. Bacon and O. Celiktutan and S. Belharbi and M. O. Zeeshan and M. H. Aslam and C. Shao and G. Hu},
+   booktitle={European Conference on Computer Vision (ECCV) workshop},
+   year={2026}
+ }
+ ```
+
 ## BAH dataset:
 ```
 @inproceedings{gonzalez-26-bah,
